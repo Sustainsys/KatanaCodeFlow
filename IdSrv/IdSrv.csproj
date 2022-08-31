@@ -9,7 +9,7 @@
     
     <PackageReference Include="Microsoft.AspNetCore.Authentication.Google" Version="3.0.0" />
     
-    <PackageReference Include="microsoft.owin.security.cookies" Version="4.1.0" />
+    <PackageReference Include="microsoft.owin.security.cookies" Version="4.2.2" />
     
     <PackageReference Include="microsoft.owin.security.openidconnect" Version="4.1.0" />
 
